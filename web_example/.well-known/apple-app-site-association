@@ -1,0 +1,12 @@
+{
+	"applinks": {
+		"apps": [],
+		"details": [{
+			"appID": "9R45Q2DW4H.app-clip-example.prefect.com",
+			"paths": ["*"]
+		}]
+	},
+	"appclips": {
+		"apps": ["9R45Q2DW4H.app-clip-example.prefect.com.Clip"]
+	}
+}
